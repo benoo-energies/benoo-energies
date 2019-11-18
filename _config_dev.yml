@@ -21,7 +21,7 @@
 title: RUBIZE by Benoo
 email: contact@benoo-energies.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Digital solutions for rural businesses.
+  Solutions numériques pour entreprises rurales.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 
