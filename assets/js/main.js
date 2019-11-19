@@ -1,3 +1,7 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
 const navbarScroll = (scrollPosition) => {
   let navbar = document.getElementById('main-navbar');
   if (scrollPosition > 100) {
