@@ -1,8 +1,6 @@
 const navbarScroll = (scrollPosition) => {
-  let bannerHeight = document.getElementById('main-banner').offsetHeight;
   let navbar = document.getElementById('main-navbar');
-  let navbarHeight = navbar.offsetHeight;
-  if (scrollPosition > bannerHeight - navbarHeight) {
+  if (scrollPosition > 100) {
     navbar.classList.add("bg-dark");
     navbar.classList.remove("bg-transparent");
   } else {
