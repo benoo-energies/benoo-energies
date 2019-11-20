@@ -1,8 +1,7 @@
 ---
 # Front matter comment to ensure Jekyll properly reads file.
 ---
-@import
-  "variables",
-  "bootstrap/bootstrap",
-  "footer",
-  "banner";
+@import "variables";
+@import "bootstrap/bootstrap";
+@import "footer";
+@import "banner";
