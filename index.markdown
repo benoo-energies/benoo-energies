@@ -7,7 +7,7 @@ layout: default
 
 <div id="about" class="py-5">
   <div class="container py-3">
-    <h2>A propos</h2>
+    <h2 class="text-warning">A propos</h2>
     <p>
       RUBIZE by Benoo offre des solutions aux dévéloppeurs et opérateurs d'activités économiques en zones rurales.
       <br>...
@@ -24,7 +24,7 @@ layout: default
 
 <div id="solutions" class="py-5 bg-light">
   <div class="container py-3">
-    <h2 class="pb-3">Solutions</h2>
+    <h2 class="pb-3 text-warning">Solutions</h2>
     <div class="pb-5">
       <h4 class="pb-3">RUBIZE Survey</h4>
       <div class="row">
@@ -90,7 +90,7 @@ layout: default
 
 <div id="contact" class="py-5">
   <div class="container py-3">
-    <h2>Contact</h2>
+    <h2 class="text-warning">Contact</h2>
     <p>Pour nous contacter</p>
     <a href="mailto:{{site.email}}">Par mail</a>
   </div>
