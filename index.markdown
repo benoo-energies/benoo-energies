@@ -9,7 +9,7 @@ layout: default
 
 <div id="about" class="py-5 bg-light">
   <div class="container py-4">
-    <h2 class="text-primary font-weight-bold pb-3">Développer les entreprises africaines grâce à l'énergie et au numérique.</h2>
+    <h2 class="text-primary font-weight-bold pb-4">Développer les entreprises africaines grâce à l'énergie et au numérique.</h2>
     <p>
       RUBIZE by Benoo offre des solutions aux dévéloppeurs et opérateurs d'activités économiques en zones rurales.
       <br>...
@@ -28,23 +28,23 @@ layout: default
 
 <div id="solutions" class="py-5">
   <div class="container py-4">
-    <h2 class="text-primary font-weight-bold pb-3">Les solutions numériques RUBIZE, à chaque étape de vos projets.</h2>
+    <h2 class="text-primary font-weight-bold pb-4">Les solutions numériques RUBIZE, à chaque étape de vos projets.</h2>
     <div class="row pt-3">
       <div class="col-12 col-lg-4 pb-3">
         <img src="assets/img/plan.png" alt="plan" height="65px">
-        <h4 class="text-warning pt-3">Planifier</h4>
+        <h4 class="text-warning py-3">Planifier</h4>
         <p>Développer des entrepreprises en zone rurale requiert une connaissance fine du territoire.</p>
         <p>Avec <strong>RUBIZE Survey</strong>, Benoo vous accomagne dans vos études terrain en dématérialisant la collecte des données, en automatisant leur traitement et en valoriant leur utilisation.</p>
       </div>
       <div class="col-12 col-lg-4 pb-3">
         <img src="assets/img/design.png" alt="design" height="65px">
-        <h4 class="text-warning pt-3">Dimensionner</h4>
+        <h4 class="text-warning py-3">Dimensionner</h4>
         <p>L'accès à une énergie fiable et au prix juste est essentiel pour garantir la viabilité des activités commerciales et productives.</p>
         <p>Grâce à l'outil <strong>RUBIZE Foresight</strong>, Benoo vous aide à dimensionner vos projets off-grid, à partir d'une compréhension fine des usages.</p>
       </div>
       <div class="col-12 col-lg-4 pb-3">
         <img src="assets/img/operate.png" alt="operate" height="65px">
-        <h4 class="text-warning pt-3">Opérer</h4>
+        <h4 class="text-warning py-3">Opérer</h4>
         <p>Piloter des entreprises rurales demande des solutions adaptées pour fluidifier l'échange d'information, sur l'ensemble de la chaîne.</p>
         <p>L'application <strong>RUBIZE Sales</strong> a été développée pour la gestion de commerces ruraux et la dématérialisation des flux de données.</p>
       </div>
@@ -59,7 +59,7 @@ layout: default
   </div>
   <div>
     <div class="container card-content pl-lg-5 py-5 my-3">
-      <h3 class="font-weight-bold">RUBIZE Survey</h3>
+      <h3 class="font-weight-bold pb-3">RUBIZE Survey</h3>
       <p class="pb-2">Rationalisez vos études terrain grâce à une suite d'outils numériques pour la collecte, le traitement, l'analyse et la visualisation de données.</p>
       <div class="d-flex">
         <i class="fas fa-fw mr-3 mt-1 fa-lg text-primary fa-database"></i>
@@ -88,7 +88,7 @@ layout: default
   </div>
   <div>
     <div class="container card-content pr-lg-5 py-5 my-3">
-      <h3 class="font-weight-bold">RUBIZE Foresight</h3>
+      <h3 class="font-weight-bold pb-3">RUBIZE Foresight</h3>
       <p class="pb-2">Modélisez la demande en énergie de vos unités commerciales, grâce à des données d'usage fiables sur les équipements productifs.</p>
       <div class="d-flex">
         <i class="fas fa-fw mr-3 mt-1 fa-lg text-dark fa-chart-bar"></i>
@@ -117,7 +117,7 @@ layout: default
   </div>
   <div>
     <div class="container card-content pl-lg-5 py-5 my-3">
-      <h3 class="font-weight-bold">RUBIZE Sales</h3>
+      <h3 class="font-weight-bold pb-3">RUBIZE Sales</h3>
       <p class="pb-2">Pilotez vos activités à distance en dématérialisant les opérations commerciales, et collectez des données fiables en temps réel.</p>
       <div class="d-flex">
         <i class="fas fa-fw mr-3 mt-1 fa-lg text-warning fa-user-friends"></i>
@@ -143,14 +143,19 @@ layout: default
 
 <div id="achievements" class="py-5">
   <div class="container py-4">
-    <h2 class="text-primary font-weight-bold pb-3">Des solutions développées à l'épreuve de l'expérience.</h2>
+    <h2 class="text-primary font-weight-bold pb-4">Des solutions validées par l'expérience du terrain.</h2>
     <div class="pb-4">
-      <p>Nous avons testé des solutions offgrid au Togo et au Burkina F. et identifié les enjeux pour les entreprises rurales.</p>
-      <p>2 000 villages identifiés, 500 villages analysés et 20 enquêtes terrain réalisées avec nos partenaires locaux.</p>
-      <p>Conception et déploiement de 5 boutiques solaires pour la  vente et distribution produits congelés / frais, et de services annexes.</p>
-      <p>+100 entrepreneurs accompagnés, 4 entreprises en activité et équipés de l’application mobile Benoo.</p>
+      <p>
+        Nous avons testé des solutions offgrid au Togo et au Burkina F. et identifié les enjeux pour les entreprises rurales.
+        <br>2 000 villages identifiés, 500 villages analysés et 20 enquêtes terrain réalisées avec nos partenaires locaux.
+        <br>Conception et déploiement de 5 boutiques solaires pour la  vente et distribution produits congelés / frais, et de services annexes.
+        <br>+100 entrepreneurs accompagnés, 4 entreprises en activité et équipés de l’application mobile Benoo.
+        <br>...
+        <br>...
+        <br>...
+      </p>
     </div>
-    <h3 class="pb-4">Nos clients</h3>
+    <h3 class="pb-4">Ils nous font confiance</h3>
     <div class="d-flex flex-wrap align-items-center justify-content-between">
       <div class="p-2">
         <img src="assets/img/etd.png" alt="ETD" height="70px" class="img-grayscale">
@@ -182,9 +187,15 @@ layout: default
 
 <div id="team" class="py-5 bg-light">
   <div class="container py-4">
-    <h2 class="text-primary font-weight-bold pb-3">Une équipe alliant savoir-faire technique et connaissance du terrain.</h2>
+    <h2 class="text-primary font-weight-bold pb-4">Une équipe alliant savoir-faire technique et connaissance des marchés africains.</h2>
     <div class="pb-4">
-      <p>Qui nous sommes / équipe.</p>
+      <p>Qui nous sommes / équipe.
+        <br>...
+        <br>...
+        <br>...
+        <br>...
+        <br>...
+      </p>
     </div>
     <h3 class="pb-4">Ils nous soutiennent</h3>
     <div class="d-flex flex-wrap align-items-center justify-content-between">
@@ -214,8 +225,59 @@ layout: default
 
 <div id="contact" class="py-5">
   <div class="container py-4">
-    <h2 class="text-primary font-weight-bold pb-3">Pour nous contacter</h2>
-    <p>Mail, adresse,</p>
-    <a href="mailto:{{site.email}}">{{site.email}}</a>
+    <h2 class="text-primary font-weight-bold pb-4">Pour nous contacter</h2>
+    <div class="row">
+      <div class="col-12 col-lg-6 pb-4">
+        <h5 class="pt-3">France (siège)</h5>
+        <p>
+          47 rue judaïque
+          <br>33000 Bordeaux
+        </p>
+        <h5 class="pt-3">Togo</h5>
+        <p>
+          Quartier Agbalépédo (en face de la HAAC)
+          <br>06 BP : 61 192 Lomé
+        </p>
+        <p class="pt-3">
+          <i class="fas fa-fw mr-3 mt-1 fa-lg text-dark fa-envelope"></i>
+          <a href="mailto:{{site.email}}">{{site.email}}</a>
+        </p>
+      </div>
+      <div class="col-12 col-lg-6">
+        <div id='map' style='width: 100%; height: 300px;'></div>
+      </div>
+    </div>
   </div>
 </div>
+
+<!-- Mapbox -->
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js'></script>
+<script>
+  mapboxgl.accessToken = 'pk.eyJ1IjoiYmVub29lbmVyZ2llcyIsImEiOiJjanVvODFzMGMycmhoNDFvYXRpZGdneDd6In0.DVAcLunVw8zcRUC2IcuVig';
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/light-v10'
+  });
+  const bounds = new mapboxgl.LngLatBounds();
+  var locations = [
+    {
+      name: 'headquarters',
+      lat: 44.841552,
+      lng: -0.583664
+    },
+    {
+      name: 'togo',
+      lat: 6.1924472,
+      lng: 1.2036118
+    }
+  ];
+  locations.forEach((location) => {
+    new mapboxgl.Marker()
+      .setLngLat([location.lng,location.lat])
+      .addTo(map);
+    bounds.extend([location.lng, location.lat ]);
+  });
+  map.fitBounds(bounds, { padding: 70, maxZoom: 2, duration: 0 });
+  map.addControl(new mapboxgl.NavigationControl());
+</script>
