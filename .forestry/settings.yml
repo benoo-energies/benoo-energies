@@ -5,10 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: _includes/about
+  path: Pages/about
   label: About
-  match: "**/*"
-  read_only: false
 - type: jekyll-pages
   label: Pages
   create: all
