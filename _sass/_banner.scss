@@ -4,7 +4,10 @@
 }
 
 .banner h1 {
+  color: white;
+  opacity: .8;
   text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+  font-size: $font-size-base * 1.5;
 }
 
 .banner p {
@@ -30,4 +33,8 @@
 
 .banner-quote {
   max-width: 400px;
+}
+
+.banner-logo {
+  max-width: 450px;
 }
