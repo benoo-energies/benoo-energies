@@ -1,6 +1,6 @@
 <div id="contact" class="py-5">
   <div class="container py-4">
-    <h2 class="text-primary font-weight-bold pb-4">Pour nous contacter</h2>
+    <h2 class="text-primary pb-4">Pour nous contacter</h2>
     <div class="row">
       <div class="col-12 col-lg-6 pb-4">
         <h5 class="pt-3">France (siège)</h5>
