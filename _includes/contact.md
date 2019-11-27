@@ -4,16 +4,16 @@
     <div class="row">
       <div class="col-12 col-lg-6 pb-4">
         <h5 class="pt-3">France (siège)</h5>
-        <p>
+        <p class="lead">
           47 rue judaïque
           <br>33000 Bordeaux
         </p>
         <h5 class="pt-3">Togo</h5>
-        <p>
+        <p class="lead">
           Quartier Agbalépédo (en face de la HAAC)
           <br>06 BP : 61 192 Lomé
         </p>
-        <p class="pt-3">
+        <p class="lead pt-3 font-weight-normal">
           <i class="fas fa-fw mr-3 mt-1 fa-lg text-dark fa-envelope"></i>
           <a href="mailto:{{site.email}}">{{site.email}}</a>
         </p>
