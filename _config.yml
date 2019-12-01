@@ -22,8 +22,8 @@ title: Benoo
 email: contact@benoo-energies.com
 description: >- # this means to ignore newlines until "baseurl:"
   Votre partenaire au service du développement soutenable des entreprises rurales.
-baseurl: "/rubize" # the subpath of your site, e.g. /blog
-url: "https://mthbo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.benoo-energies.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minima
