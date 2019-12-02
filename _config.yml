@@ -21,7 +21,7 @@
 title: Benoo
 email: contact@benoo-energies.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Votre partenaire au service du développement soutenable des entreprises rurales.
+  Votre partenaire pour le développement soutenable des entreprises rurales.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.benoo-energies.com" # the base hostname & protocol for your site, e.g. http://example.com
 
