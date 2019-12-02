@@ -5,7 +5,7 @@
       <div class="col-12 col-lg-6 pb-4">
         <h5 class="pt-3">France (siège)</h5>
         <p class="lead">
-          47 rue judaïque
+          47 rue Judaïque
           <br>33000 Bordeaux
         </p>
         <h5 class="pt-3">Togo</h5>
