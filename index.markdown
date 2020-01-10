@@ -9,3 +9,4 @@ layout: default
 {% include achievements.html %}
 {% include team.html %}
 {% include contact.md %}
+{% include footer.html %}
