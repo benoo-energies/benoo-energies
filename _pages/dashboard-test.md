@@ -5,5 +5,6 @@ permalink: /dashboard-test/
 ---
 
 <div class="dashboard d-flex">
-  <iframe frameborder=0 src="//analytics.zoho.eu/open-view/33042000001596869">test</iframe>
-</div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/WG8KfdlNXVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--   <iframe frameborder=0 src="https://analytics.zoho.eu/open-view/33042000001596869" allowfullscreen></iframe>
+ --></div>
