@@ -2,13 +2,17 @@
 layout: default
 ---
 
-<div class="container">
-  <div class="py-4 text-center">
+<div class="dashboard d-flex flex-column">
+
+  <div class="container-fluid py-2">
     <a href="{{ site.url }}">
       <img src="/assets/img/benoo_logo_color.svg" alt="Benoo" height="35px">
     </a>
   </div>
-  <h2>{{ page.title }}</h2>
-  {{ content }}
+
+  <div class="h-100">
+    {{ content }}
+  </div>
+
 </div>
 
