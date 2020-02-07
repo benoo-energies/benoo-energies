@@ -15,7 +15,7 @@
         </p>
         <div class="py-3">
           <a
-            class="typeform-share button btn btn-primary px-3"
+            class="typeform-share button btn btn-primary ppy-2 px-3 mb-3"
             href="https://contact243679.typeform.com/to/awrEEb"
             data-mode="popup"
             data-submit-close-delay="0"
