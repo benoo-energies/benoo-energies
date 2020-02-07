@@ -15,10 +15,9 @@
         </p>
         <div class="py-3">
           <a
-            class="typeform-share button"
+            class="typeform-share button btn btn-primary px-3"
             href="https://contact243679.typeform.com/to/awrEEb"
             data-mode="popup"
-            style="display:inline-block;text-decoration:none;background-color:#00BC92;color:white;cursor:pointer;font-family:'Open Sans','Helvetica',sans-serif;font-size:16px;line-height:40px;text-align:center;margin:0;height:40px;padding:0px 26px;border-radius:2px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:400;-moz-osx-font-smoothing:grayscale;"
             data-submit-close-delay="0"
             target="_blank">
             Nous contacter
