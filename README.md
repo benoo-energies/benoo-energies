@@ -13,4 +13,4 @@ To be able to develop the project, ensure your machine fulfill the following:
 * Gems : Jekyll, Bundler
 
 ## Deployement
-The website is hosted on GitHub page. Push your commits on the ```gh-pages``` branch, the website will be automatically built and deploy on GitHub page.
+The website is hosted on GitHub page. Push your commits on the ```gh-pages``` branch, the website will be automatically built and deployed on GitHub page.
